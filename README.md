@@ -1,3 +1,12 @@
+# Storybook!
+
+Please run the following command to start storybook.
+### `npm run storybook`
+
+Starts the storybook.
+Open http://localhost:6006/ to view the Storybook
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
